@@ -76,8 +76,7 @@ PRODUCT_PACKAGES += \
     Trebuchet \
     audio_effects.conf \
     Music \
-	MusicFx \
-	GooManager \
+    GooManager \
     openvpn \
     e2fsck \
     mke2fs \
@@ -95,8 +94,7 @@ PRODUCT_PACKAGES += \
     sshd_config \
     ssh-keygen \
     start-ssh \
-    rsync \
-	ROMControl
+    rsync
 	
 # Custom CM packages
 #PRODUCT_PACKAGES += \
